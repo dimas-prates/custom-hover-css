@@ -1,0 +1,16 @@
+/* Imported font */
+@import url();
+
+/* Custom variables */
+:root{
+    --clr-bkg-main: white;
+    --clr-txt-main: black;
+}
+
+/* Global configuration */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
