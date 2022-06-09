@@ -2,8 +2,13 @@
 @import url();
 
 /* Custom variables */
-:root{
-    --clr-bkg-main: white;
+:root {
+    --clr-bkg-main-primary: #ff4f8b;
+    --clr-bkg-main-secondary: #dff1ff;
+    --clr-bkg-main-tertiary: #ff0;
+    --clr-bkg-item-1: #ff359b;
+    --clr-bkg-item-2: #fffd87;
+    --clr-bkg-item-3: #00d2ff;
     --clr-txt-main: black;
 }
 
@@ -13,4 +18,5 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: sans-serif;
 }
